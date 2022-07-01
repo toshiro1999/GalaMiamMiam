@@ -33,7 +33,7 @@ const NavContainer = styled.nav`
   border-radius: 0px 0px 20px 20px;
   justify-content: space-between;
   align-items: center;
-  background-color: pink;
+  background-color: #b2dfdb;
 `;
 
 const ImgAjouter = styled.img`

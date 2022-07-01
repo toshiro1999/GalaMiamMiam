@@ -16,7 +16,7 @@ const CardWrapper = styled.div`
   height: 400px;
   width: 300px;
   margin-bottom: 60px;
-  background-color: pink;
+  background-color: #b2dfdb;
   border-radius: 20px;
   transition: 200ms;
   box-shadow: 5px 3px 20px grey;
